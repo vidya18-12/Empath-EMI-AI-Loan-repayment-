@@ -1,0 +1,82 @@
+--- Recent Twilio Message Logs ---
+
+To: +919019852093
+From: +18573925117
+Status: FAILED
+SID: SM1f756af7ed679418ff8eeec774f75c4c
+Date: Thu Jan 08 2026 12:39:09 GMT+0530 (India Standard Time)
+❌ ERROR: 30044 - null
+Body: Sent from your Twilio trial account - Dear anu, yo...
+------------------------------
+To: +917676940379
+From: +18573925117
+Status: FAILED
+SID: SM350b28036cce0ac1e74fe59c77bf5543
+Date: Thu Jan 08 2026 12:39:06 GMT+0530 (India Standard Time)
+❌ ERROR: 30044 - null
+Body: Sent from your Twilio trial account - Dear Vidya, ...
+------------------------------
+To: +918431772908
+From: +18573925117
+Status: FAILED
+SID: SM2dac96e373b60ff568dd8d0f10aac7a1
+Date: Thu Jan 08 2026 12:39:03 GMT+0530 (India Standard Time)
+❌ ERROR: 30044 - null
+Body: Sent from your Twilio trial account - Dear Kavitha...
+------------------------------
+To: +919019852093
+From: +18573925117
+Status: FAILED
+SID: SMa8d464df24ce382319e2431a4b2130ea
+Date: Thu Jan 08 2026 12:37:34 GMT+0530 (India Standard Time)
+❌ ERROR: 30044 - null
+Body: Sent from your Twilio trial account - Dear anu, yo...
+------------------------------
+To: +917676940379
+From: +18573925117
+Status: FAILED
+SID: SM0b8d1443aeb04415bbe614ece845f3d4
+Date: Thu Jan 08 2026 12:37:31 GMT+0530 (India Standard Time)
+❌ ERROR: 30044 - null
+Body: Sent from your Twilio trial account - Dear Vidya, ...
+------------------------------
+To: +918431772908
+From: +18573925117
+Status: FAILED
+SID: SMd304fded34694bb7994ab07509da0307
+Date: Thu Jan 08 2026 12:37:28 GMT+0530 (India Standard Time)
+❌ ERROR: 30044 - null
+Body: Sent from your Twilio trial account - Dear Kavitha...
+------------------------------
+To: +919019852093
+From: +18573925117
+Status: FAILED
+SID: SMaf662d60fe2d2f0ff41d3c194452344d
+Date: Thu Jan 08 2026 12:37:05 GMT+0530 (India Standard Time)
+❌ ERROR: 30044 - null
+Body: Sent from your Twilio trial account - Dear anu, yo...
+------------------------------
+To: +917676940379
+From: +18573925117
+Status: FAILED
+SID: SMa232b71f91fa2800105a8ff45ef63958
+Date: Thu Jan 08 2026 12:37:02 GMT+0530 (India Standard Time)
+❌ ERROR: 30044 - null
+Body: Sent from your Twilio trial account - Dear Vidya, ...
+------------------------------
+To: +918431772908
+From: +18573925117
+Status: FAILED
+SID: SMe4b63fa977fddb2f7bb9443c32b910fb
+Date: Thu Jan 08 2026 12:36:59 GMT+0530 (India Standard Time)
+❌ ERROR: 30044 - null
+Body: Sent from your Twilio trial account - Dear Kavitha...
+------------------------------
+To: +918431772908
+From: +18573925117
+Status: UNDELIVERED
+SID: SMd5cb5019f433e47f7a24c019b4598930
+Date: Thu Jan 08 2026 12:33:43 GMT+0530 (India Standard Time)
+❌ ERROR: 30008 - Unknown error
+Body: Sent from your Twilio trial account - Test 3: Serv...
+------------------------------

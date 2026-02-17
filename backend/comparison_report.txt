@@ -1,0 +1,24 @@
+--- Comparison Report ---
+
+1. Sending SAFE content via Raw Client...
+   Queued: SM4a0882cb1f70993e1f5e4fffe77e9cde
+
+2. Sending RISKY (AI) content via Raw Client...
+   Queued: SMa691795c7ef0c4f85decbc2ab73a3ddd
+
+3. Sending via twilioService.js...
+   Queued: SMd5cb5019f433e47f7a24c019b4598930
+
+--- Checking Final Status ---
+SID: SMd5cb5019f433e47f7a24c019b4598930
+Body: Sent from your Twilio trial ac...
+Status: SENT
+
+SID: SMa691795c7ef0c4f85decbc2ab73a3ddd
+Body: Sent from your Twilio trial ac...
+Status: DELIVERED
+
+SID: SM4a0882cb1f70993e1f5e4fffe77e9cde
+Body: Sent from your Twilio trial ac...
+Status: SENT
+

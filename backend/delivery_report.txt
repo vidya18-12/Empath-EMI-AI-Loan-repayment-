@@ -1,0 +1,20 @@
+--- Detailed Delivery Report ---
+
+Checking Kavitha (+918431772908)...
+  SID: SMadc2509c77da0a3552907c14ddcb13bd
+  Status: FAILED
+  ❌ FAILURE CODE: 30044
+  ❌ REASON: null
+----------------------------------------
+Checking anu (+919019852093)...
+  SID: SM63fa94257c13584440429ac212cadbb3
+  Status: FAILED
+  ❌ FAILURE CODE: 30044
+  ❌ REASON: null
+----------------------------------------
+Checking vidya (+917676940379)...
+  SID: SM67de416a2b74001f5604a1e8cb769025
+  Status: FAILED
+  ❌ FAILURE CODE: 30044
+  ❌ REASON: null
+----------------------------------------

@@ -1,0 +1,18 @@
+--- Twilio Account Diagnostic ---
+
+Account Name: My first Twilio account
+Account Status: active
+Account Type: Trial
+Current Balance: balance() {
+        return this._proxy.balance;
+    }
+
+--- List of Verified Numbers (3) ---
+✅ +919019852093 [+919019852093]
+✅ +918431772908 [kavitha]
+✅ +917676940379 [vidya]
+
+--- Verification Check ---
+[MATCH] +918431772908 is verified!
+[MATCH] +919019852093 is verified!
+[MATCH] +917676940379 is verified!
